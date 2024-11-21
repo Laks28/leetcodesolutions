@@ -17,7 +17,10 @@ Here is a quick index of the solved problems, approaches, and their complexities
 |-------------------------|------------------------------------------|------------|---------------------|------------------|----------|----------------------------|
 | Array Rotation          | Brute Force, Reversal Algorithm         | Medium     | O(k * n), O(n)      | O(1)             | Java     | https://leetcode.com/problems/rotate-array/description/ |
 | Find Missing Number   | XOR Operation                         | Easy       | O(n)                | O(1)             | Java     | https://leetcode.com/problems/missing-number/description/ |
-
+| Reverse Integer        | Iterative digit reversal              | Medium       | O(log10(n))       | O(1)             | Java     | https://leetcode.com/problems/reverse-integer/description/ |
+| Check Number Is Binary | Regex matching for binary validation  | Easy       | O(n)              | O(1)             | Java     | N/A                                                                 |
+| Two Sum                | HashMap with complement lookup        | Easy       | O(n)            | O(n)             | Java     | https://leetcode.com/problems/two-sum/     |
+| Valid Anagram          | Sorting and character removal         | Easy       | O(n log n) / O(n^2) | O(n) / O(1)      | Java     | https://leetcode.com/problems/valid-anagram/ |
 
 ## 🛠️ How to Use
 1. Navigate to the category folder of interest.
